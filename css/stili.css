@@ -1,3 +1,8 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 #main-title{
     color:blue
 }
@@ -27,7 +32,7 @@ p{
 }
 
 .yellow{
-    background-color: yellow;
+    background-color: rgba(255, 255, 0,0.2);
 }
 
 .square{
@@ -43,6 +48,25 @@ p{
 
 .border{
     border: 5px solid black;
-    border-bottom-color: orange ;
+    border-bottom-color: orange;
     border-left-style:dotted ;
+}
+
+.text{
+    text-align: center;
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+.error{
+    text-decoration: line-through;
+}
+
+.box{
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+    background-image: url(../img/Raskrasil.com-Coloring-Pages-Fairy-98.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
