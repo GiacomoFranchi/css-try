@@ -29,3 +29,20 @@ p{
 .yellow{
     background-color: yellow;
 }
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+
+.rettangolo-immagine{
+    width: 200px;
+}
+
+.border{
+    border: 5px solid black;
+    border-bottom-color: orange ;
+    border-left-style:dotted ;
+}
