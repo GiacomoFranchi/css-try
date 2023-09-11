@@ -1,3 +1,31 @@
 #main-title{
     color:blue
 }
+
+p{
+    color: green;
+}
+
+.red-text{
+    color: red;
+}
+
+.big-text{
+    font-size: 25px;
+}
+
+.yellow .inner-text{
+    color: violet;
+}
+
+.pink .inner-text{
+    color:blueviolet;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.yellow{
+    background-color: yellow;
+}
